@@ -8,6 +8,7 @@ burp联动sqlmapapi自动查找可能存在注入的点，目前只支持get类�
 
 需要先在burp中安装Jython
 Jython下载地址: https://www.jython.org/download.html
+
 在下载页面选择Jython Standalone 将jython的jar包下载下来
 
 <img width="1135" alt="image" src="https://user-images.githubusercontent.com/56328995/197370668-5d31248a-9465-4afd-90d5-877b1a61a2fa.png">
