@@ -33,5 +33,6 @@ Jython下载地址: https://www.jython.org/download.html
 ```python3 sql.py```
 
 # 使用效果
-这里使用sqlilabs进行演示
+这里使用SQLi-LABS进行演示
+
 
