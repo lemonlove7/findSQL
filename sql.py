@@ -15,7 +15,6 @@ def test():
         client_socket, clientAddr = tcp_server_socket.accept()
         recv_data = client_socket.recv(1024)
         u = recv_data.decode('utf-8')
-        print(u)
         client_socket.close()
         payload = {'url': u}
 
