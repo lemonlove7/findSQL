@@ -1,5 +1,5 @@
 # findSQL
-查找可能存在注入的点，目前只支持get类型的注入
+burp联动sqlmap自动查找可能存在注入的点，目前只支持get类型的注入
 # 用法
 注意:路径中不要有中文字符，否则会报错
 ### 安装Jython
@@ -35,4 +35,6 @@ Jython下载地址: https://www.jython.org/download.html
 # 使用效果
 这里使用SQLi-LABS进行演示
 
+<img width="1320" alt="image" src="https://user-images.githubusercontent.com/56328995/197371892-a28453ca-e1e5-48f0-9fc7-8bb735169984.png">
 
+检测出存在注入
