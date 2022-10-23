@@ -1,5 +1,5 @@
 # findSQL
-burp联动sqlmap自动查找可能存在注入的点，目前只支持get类型的注入
+burp联动sqlmapapi自动查找可能存在注入的点，目前只支持get类型的注入
 # 用法
 注意:路径中不要有中文字符，否则会报错
 ### 安装Jython
