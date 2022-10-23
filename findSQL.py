@@ -20,9 +20,9 @@ class BurpExtender(IBurpExtender,IProxyListener):
         [+] ^_^
         [+] #####################################
         [+] findSQL v1.0
-        [+] author 刘一手
-        [+] team 鹏组安全
-        [+] github
+        [+] author:刘一手
+        [+] team:鹏组安全
+        [+] github:https://github.com/lemonlove7/findSQL
         [+] #####################################
         [+] Please enjoy it
         ''')
