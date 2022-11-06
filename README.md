@@ -24,7 +24,7 @@ Jython下载地址: https://www.jython.org/download.html
 
 打开Burp Suite-->Extender-->Burp Extensions-->add-->Extension Details(Extension type:python)-->select file(选择findSQL.py)-->打开-->next
 
-<img width="925" alt="image" src="https://user-images.githubusercontent.com/56328995/197371301-45f08d1b-53e8-4369-b91a-d1be0d47e77f.png">
+<img width="782" alt="33" src="https://user-images.githubusercontent.com/56328995/200166398-1b226e41-6bd1-42fe-8a96-55066d824bdd.png">
 
 ### python运行sqlmapapi.py
 
@@ -41,6 +41,6 @@ Jython下载地址: https://www.jython.org/download.html
 # 使用效果
 这里使用SQLi-LABS进行演示
 
-<img width="1320" alt="image" src="https://user-images.githubusercontent.com/56328995/197371892-a28453ca-e1e5-48f0-9fc7-8bb735169984.png">
+<img width="1272" alt="66" src="https://user-images.githubusercontent.com/56328995/200166411-9bf565b7-a996-44a3-99f4-57b6ec75aea6.png">
 
 检测出存在注入
