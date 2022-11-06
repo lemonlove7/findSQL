@@ -59,6 +59,7 @@ def st():
 
 
 if __name__ == '__main__':
+    print("By T00ls.Com")
     taskids=[]
     threads=[]
     threads.append(threading.Thread(target=test))
